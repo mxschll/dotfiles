@@ -17,7 +17,6 @@ font:
     style: Bold Italic
 
 window:
-  option_as_alt: Both
   padding:
     x: 12
     y: 12
