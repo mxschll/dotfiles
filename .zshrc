@@ -75,8 +75,8 @@ plugins=(
 	tmux
 )
 
-
 ZSH_TMUX_AUTOSTART=true
+ZSH_TMUX_AUTOCONNECT=false
 
 source $ZSH/oh-my-zsh.sh
 
