@@ -18,12 +18,12 @@ font:
 
 window:
   padding:
-    x: 8
-    y: 8
+    x: 12
+    y: 12
   dynamic_padding: false
   decorations: buttonless
   startup_mode: Windowed
-  opacity: 0.95
+  opacity: 1
 
 schemes:
   gruvbox_material_hard_dark: &gruvbox_material_hard_dark
